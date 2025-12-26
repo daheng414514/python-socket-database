@@ -1,0 +1,23 @@
+John|43|123 Apple Street|514-4287
+Katya|26|49 Queen Mary Road|514-7654
+Ahmad|91|1888 Pepper Lane|394-1234
+Ivy|1|One Ave|426-1111
+Max|120|Hill Road|901-9999
+Tom|40|No phone given|
+Lisa|35||514-2222
+123|50|Numeric name allowed|394-7777
+Bella|121|7 Elm St|426-8888
+|35|22 Oak Ave|901-7777
+Carl||22 River St|514-4444
+Nina|0|55 King St|514-5555
+Chen|20|9 Birch St|5142345
+Diego|45|5 Lake Rd|999-0000
+Eva|30|10 Willow Dr|901-12A4
+Omar|30|Somewhere|394-12345
+Anna|twenty|Main Blvd|514-1111
+Bob|35|Addr|
+Ali|25|Addr|514-1111|Extra
+Alice||123 Maple|514-1234
+Bob|   |Addr|
+Carl|abc|Addr|514-1111
+Frank|25|OnlyThree
