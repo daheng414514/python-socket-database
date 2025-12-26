@@ -84,7 +84,7 @@ python server.py
 #### Phone Number
 Valid phone numbers must follow this format:
 
-<area-code>-<4 digits>
+`<area-code>-<4 digits>`
 
 Allowed area codes:
 - 394
