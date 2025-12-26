@@ -79,6 +79,25 @@ python client.py
 python server.py
 ```
 
+### Input Formats
+
+#### Phone Number
+Valid phone numbers must follow this format:
+
+<area-code>-<4 digits>
+
+Allowed area codes:
+- 394
+- 426
+- 901
+- 514
+
+Examples:
+- 514-1234 (valid)
+- 426-9876 (valid)
+- 5141234 (invalid)
+- 999-1234 (invalid)
+
 ### Notes
 - The server accepts one client connection at a time (intentional design)
 - Requests are delimited using a newline (`\n`) as the protocol terminator
