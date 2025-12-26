@@ -107,6 +107,7 @@ python server.py
 
 ## Design Decisions
 
+- Customer name and age are required fields, while address and phone number are optional
 - The server is intentionally designed to handle one client session per run
 - A simple text-based protocol is used for clarity and learning purposes
 - Messages are delimited using a newline (`\n`) to clearly define request boundaries
